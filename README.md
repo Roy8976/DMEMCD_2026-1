@@ -1,2 +1,2 @@
 # DMEMCD_2026
-Repositorio para el módulo 1 del Diplomado Métodos Estadísticos y Matemáticos para la Ciencia de Datos, impartido en el año 2026.
+Repositorio para el proyecto del modulo 1 realizado por el equipo los gentrificadores. Con el tratamiento a profundidad de la base de datos oficial de airbnb
