@@ -61,22 +61,9 @@ ecobici-eda/
 
 **Requisitos:** Python 3.12 o superior y Git.
 
-1. Clonar el repositorio:
-   ```bash
-   https://github.com/Roy8976/DMEMCD_2026-1/tree/proyecto/equipo_sala_13
-   cd proyecto_ecobici
-   ```
-2. Crear y activar un entorno virtual:
-   ```bash
-   python3.13 -m venv .venv
-   source .venv/bin/activate
-   python --version     # debe mostrar 3.12 o superior       # Windows: .venv\Scripts\activate
-   ```
-3. Instalar las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Abrir y ejecutar el notebook completo (*Kernel → Restart & Run All*):
+1. Clonar la rama del equipo: `git clone -b proyecto/equipo_sala_13 --single-branch https://github.com/chaffrey8/DMEMCD_2026.git`
+2. Instalar las dependencias con `pip install -r requirements.txt` (en Google Colab no es necesario).
+3. Abrir el notebook desde la carpeta `/notebooks` y ejecutar todas las celdas (*Kernel → Restart & Run all* en Jupyter).
 
 Las figuras y tablas se guardan en `results/` 
 
