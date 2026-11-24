@@ -1,4 +1,4 @@
-ï»¿sistema,num_cicloe,calle_prin,calle_secu,colonia,alcaldia,latitud,longitud,sitio_de_e,estatus
+sistema,num_cicloe,calle_prin,calle_secu,colonia,alcaldia,latitud,longitud,sitio_de_e,estatus
 Ecobici,423,Moras,Eje 8 Sur Jose Maria Rico,Acacias,Benito Juarez,19.367816,-99.175269,Arroyo,Instalada
 Ecobici,437,Moras,Comunal,Acacias,Benito Juarez,19.364916,-99.175985,Arroyo,Instalada
 Ecobici,438,Adolfo Prieto,Jose Maria Olloqui,Acacias,Benito Juarez,19.36473,-99.174447,Arroyo,Instalada
@@ -13,10 +13,10 @@ Ecobici,390-391,Oso,Felix Cuevas,Actipan,Benito Juarez,19.373384,-99.178173,Arro
 Ecobici,686,Avenida Vito Alessio Robles,Av. Universidad,Agricola,Alvaro Obregon,19.352203,-99.178393,Arroyo,Instalada
 Ecobici,495,Amado Nervo,Avenida de los Maestros,Agricultura,Miguel Hidalgo,19.445528,-99.166934,Arroyo,Instalada
 Ecobici,499,Avenida de los Maestros,Calzada de los Gallos,Agricultura,Miguel Hidalgo,19.455986,-99.165966,Arroyo,Instalada
-Ecobici,588,Avenida Fernando,La Coruï¿½a,Alamos,Benito Juarez,19.401239,-99.137404,Arroyo,Instalada
+Ecobici,588,Avenida Fernando,La Coruña,Alamos,Benito Juarez,19.401239,-99.137404,Arroyo,Instalada
 Ecobici,589,Cadiz,Calzada de Tlalpan,Alamos,Benito Juarez,19.39859,-99.137732,Arroyo,Instalada
 Ecobici,590,Avenida Fernando,Isabel la Catolica,Alamos,Benito Juarez,19.399172,-99.140625,Arroyo,Instalada
-Ecobici,591,Simon Bolivar,La Coruï¿½a,Alamos,Benito Juarez,19.402088,-99.142976,Arroyo,Instalada
+Ecobici,591,Simon Bolivar,La Coruña,Alamos,Benito Juarez,19.402088,-99.142976,Arroyo,Instalada
 Ecobici,592,Cadiz,Eje Central Lazaro Cardenas,Alamos,Benito Juarez,19.399664,-99.145136,Arroyo,Instalada
 Ecobici,601,Navarra,Av. Fernando,Alamos,Benito Juarez,19.395812,-99.145347,Arroyo,Instalada
 Ecobici,603,Castilla,Eje 4 Sur Xola,Alamos,Benito Juarez,19.394422,-99.143291,Arroyo,Instalada
@@ -62,17 +62,17 @@ Ecobici,251,Goethe,Darwin,Anzures,Miguel Hidalgo,19.429261,-99.17538,Arroyo,Inst
 Ecobici,252,Victor Hugo,Shakespeare,Anzures,Miguel Hidalgo,19.427575,-99.17702,Arroyo,Instalada
 Ecobici,253,Dante,Tolstoi,Anzures,Miguel Hidalgo,19.4264486,-99.1781433,Arroyo,Instalada
 Ecobici,452,Leibnitz,Av. Ejercito Nacional,Anzures,Miguel Hidalgo,19.435867,-99.179856,Arroyo,Instalada
-Ecobici,536,Fresno,Eje 2 Norte Eulalia Guzmï¿½n,Atlampa,Cuauhtemoc,19.458881,-99.159215,Arroyo,Instalada
+Ecobici,536,Fresno,Eje 2 Norte Eulalia Guzmán,Atlampa,Cuauhtemoc,19.458881,-99.159215,Arroyo,Instalada
 Ecobici,537,Fresno,Clavel,Atlampa,Cuauhtemoc,19.457594,-99.159455,Arroyo,Instalada
-Ecobici,539,Naranjo,Av. Ricardo Flores Magï¿½n,Atlampa,Cuauhtemoc,19.455189,-99.157644,Arroyo,Instalada
+Ecobici,539,Naranjo,Av. Ricardo Flores Magón,Atlampa,Cuauhtemoc,19.455189,-99.157644,Arroyo,Instalada
 Ecobici,662,Manzano,Circuito Interior,Axotla,Alvaro Obregon,19.362041,-99.175158,Arroyo,Instalada
 Ecobici,663,Hortensia,Av. Universidad,Axotla,Alvaro Obregon,19.3548028,-99.17541944,Arroyo,Instalada
 Ecobici,702,Fernandez Leal,Plaza de la Conchita,Barrio la Concepcion,Coyoacan,19.347246,-99.15857,Arroyo,Instalada
 Ecobici,704,Pacifico,Asia,Barrio la Concepcion,Coyoacan,19.344976,-99.157824,Arroyo,Instalada
 Ecobici,706,Canada,Acolotitla,Barrio San Lucas,Coyoacan,19.347503,-99.15244,Arroyo,Instalada
 Ecobici,194,Circuito Mahatma Gandhi,Av. Paseo de la Reforma,Bosque de Chapultepec,Miguel Hidalgo,19.424282,-99.180334,Banqueta,Instalada
-Ecobici,195,Av. Paseo de la Reforma,Mahatma Gandhi,Bosque de Chapultepec,Miguel Hidalgo,19.424858,-99.185181,Camellï¿½n,Instalada
-Ecobici,192-193,Ruben Dario,Av. Paseo de la Reforma,Bosque de Chapultepec,Miguel Hidalgo,19.42592,-99.190755,Camellï¿½n,Instalada
+Ecobici,195,Av. Paseo de la Reforma,Mahatma Gandhi,Bosque de Chapultepec,Miguel Hidalgo,19.424858,-99.185181,Camellón,Instalada
+Ecobici,192-193,Ruben Dario,Av. Paseo de la Reforma,Bosque de Chapultepec,Miguel Hidalgo,19.42592,-99.190755,Camellón,Instalada
 Ecobici,176,Jesus Garcia,Luis Donaldo Colosio,Buenavista,Cuauhtemoc,19.442717,-99.152262,Arroyo,Instalada
 Ecobici,265,Mina,Jesus Garcia,Buenavista,Cuauhtemoc,19.440839,-99.152265,Arroyo,Instalada
 Ecobici,264-275,Heroes Ferrocarrileros,Jesus Garcia,Buenavista,Cuauhtemoc,19.440985,-99.152935,Arroyo,Instalada
@@ -107,7 +107,7 @@ Ecobici,093,Palma Norte,Republica de Cuba,Centro,Cuauhtemoc,19.436741,-99.134811
 Ecobici,094,Lic. Primo de Verdad,Moneda,Centro,Cuauhtemoc,19.433766,-99.130918,Arroyo,Instalada
 Ecobici,095,20 de Noviembre,Venustiano Carranza,Centro,Cuauhtemoc,19.430722,-99.133698,Banqueta,Instalada
 Ecobici,096,Lopez,Ayuntamiento,Centro,Cuauhtemoc,19.430625,-99.14248,Arroyo,Instalada
-Ecobici,097,Republica de Salvador,Jose Maria Pino Suarez,Centro,Cuauhtemoc,19.429189,-99.132759,Camellï¿½n,Instalada
+Ecobici,097,Republica de Salvador,Jose Maria Pino Suarez,Centro,Cuauhtemoc,19.429189,-99.132759,Camellón,Instalada
 Ecobici,098,Emilio Donde,Av. Balderas,Centro,Cuauhtemoc,19.430267,-99.14861,Arroyo,Instalada
 Ecobici,099,Ernesto Pugibet,Luis Moya,Centro,Cuauhtemoc,19.429947,-99.14591,Arroyo,Instalada
 Ecobici,107-108,Tolsa,Balderas,Centro,Cuauhtemoc,19.427329,-99.149971,Arroyo,Instalada
@@ -128,16 +128,16 @@ Ecobici,447,Agustin Melgar,Zamora,Condesa,Cuauhtemoc,19.418879,-99.176854,Arroyo
 Ecobici,049,Mazatlan,Juan de la Barrera,Condesa,Cuauhtemoc,19.41689,-99.17562,Banqueta,Instalada
 Ecobici,050,Cuernavaca,Veracruz,Condesa,Cuauhtemoc,19.416886,-99.173591,Arroyo,Instalada
 Ecobici,053,Fernando Montes de Oca,Tula,Condesa,Cuauhtemoc,19.4148233,-99.1783527,Arroyo,Instalada
-Ecobici,054,Parque Espaï¿½a,Sonora,Condesa,Cuauhtemoc,19.416163,-99.170795,Arroyo,Instalada
+Ecobici,054,Parque España,Sonora,Condesa,Cuauhtemoc,19.416163,-99.170795,Arroyo,Instalada
 Ecobici,057,Cuernavaca,Juan Escutia,Condesa,Cuauhtemoc,19.414968,-99.174766,Arroyo,Instalada
-Ecobici,058,Parque Espaï¿½a,Juan de la Barrera,Condesa,Cuauhtemoc,19.415358,-99.171902,Banqueta,Instalada
+Ecobici,058,Parque España,Juan de la Barrera,Condesa,Cuauhtemoc,19.415358,-99.171902,Banqueta,Instalada
 Ecobici,060,Mazatlan,Fernando Montes de Oca,Condesa,Cuauhtemoc,19.414119,-99.177214,Banqueta,Instalada
 Ecobici,062,Fernando Montes de Oca,Amatlan,Condesa,Cuauhtemoc,19.413314,-99.175225,Arroyo,Instalada
 Ecobici,066,Mazatlan,Francisco Marquez,Condesa,Cuauhtemoc,19.411825,-99.178456,Banqueta,Instalada
 Ecobici,067,Vicente Suarez,Michoacan,Condesa,Cuauhtemoc,19.411703,-99.175753,Arroyo,Instalada
 Ecobici,068,Tamaulipas,Michoacan,Condesa,Cuauhtemoc,19.411771,-99.173783,Banqueta,Instalada
 Ecobici,667,Hermes,Mosqueta,Credito Constructor,Benito Juarez,19.3639778,-99.18091389,Arroyo,Instalada
-Ecobici,261,Av. Paseo de la Reforma,Rio de la Plata,Cuauhtemoc,Cuauhtemoc,19.42491,-99.172455,Camellï¿½n,Instalada
+Ecobici,261,Av. Paseo de la Reforma,Rio de la Plata,Cuauhtemoc,Cuauhtemoc,19.42491,-99.172455,Camellón,Instalada
 Ecobici,001,Rio Sena,Rio Balsas,Cuauhtemoc,Cuauhtemoc,19.4335895,-99.1678193,Arroyo,Instalada
 Ecobici,002,Rio Guadalquivir,Rio Nazas,Cuauhtemoc,Cuauhtemoc,19.43062276,-99.17123066,Arroyo,Instalada
 Ecobici,004,Rio  Nilo,Rio Panuco,Cuauhtemoc,Cuauhtemoc,19.428491,-99.171693,Arroyo,Instalada
@@ -198,13 +198,13 @@ Ecobici,292,Adolfo Prieto,Eje 4 Sur Xola,Del Valle Norte,Benito Juarez,19.396917
 Ecobici,293,Mier y Pesado,Eje 4 Sur Xola,Del Valle Norte,Benito Juarez,19.397373,-99.164598,Arroyo,Instalada
 Ecobici,298,Romero de Terreros,Eje 2 Pte. Gabriel Mancera,Del Valle Norte,Benito Juarez,19.394092,-99.162139,Arroyo,Instalada
 Ecobici,299,Romero de Terreros,Mier y Pesado,Del Valle Norte,Benito Juarez,19.394601,-99.165054,Arroyo,Instalada
-Ecobici,300,Providencia,Luz Saviï¿½on,Del Valle Norte,Benito Juarez,19.3932287,-99.1684308,Arroyo,Instalada
-Ecobici,301,Luz Saviï¿½on,Magdalena,Del Valle Norte,Benito Juarez,19.393807,-99.171133,Arroyo,Instalada
-Ecobici,302,Luz Saviï¿½on,Magdalena,Del Valle Norte,Benito Juarez,19.393832,-99.171466,Arroyo,Instalada
+Ecobici,300,Providencia,Luz Saviñon,Del Valle Norte,Benito Juarez,19.3932287,-99.1684308,Arroyo,Instalada
+Ecobici,301,Luz Saviñon,Magdalena,Del Valle Norte,Benito Juarez,19.393807,-99.171133,Arroyo,Instalada
+Ecobici,302,Luz Saviñon,Magdalena,Del Valle Norte,Benito Juarez,19.393832,-99.171466,Arroyo,Instalada
 Ecobici,316,San Francisco,Concepcion Beistegui,Del Valle Norte,Benito Juarez,19.391056,-99.1712,Arroyo,Instalada
 Ecobici,317,Avenida Coyoacan,Torres Adalid,Del Valle Norte,Benito Juarez,19.391456,-99.166157,Arroyo,Instalada
-Ecobici,318,Luz Saviï¿½on,Amores,Del Valle Norte,Benito Juarez,19.392195,-99.163987,Arroyo,Instalada
-Ecobici,319,Diagonal San Antonio,Luz Saviï¿½on,Del Valle Norte,Benito Juarez,19.391991,-99.162684,Arroyo,Instalada
+Ecobici,318,Luz Saviñon,Amores,Del Valle Norte,Benito Juarez,19.392195,-99.163987,Arroyo,Instalada
+Ecobici,319,Diagonal San Antonio,Luz Saviñon,Del Valle Norte,Benito Juarez,19.391991,-99.162684,Arroyo,Instalada
 Ecobici,323,Concepcion Beistegui,Eje 2 Pte. Gabriel Mancera,Del Valle Norte,Benito Juarez,19.388927,-99.163127,Arroyo,Instalada
 Ecobici,372,Doctor Roberto Gayol,Tlacoquemecatl,Del Valle Sur,Benito Juarez,19.377966,-99.170272,Arroyo,Instalada
 Ecobici,377,Heriberto Frias,Miguel Laurent,Del Valle Sur,Benito Juarez,19.375397,-99.163778,Arroyo,Instalada
@@ -229,7 +229,7 @@ Ecobici,448,Doctor Andrade,Av. Arcos de Belen,Doctores,Cuauhtemoc,19.426611,-99.
 Ecobici,560,Doctor Liceaga,Eje Central Lazaro Cardenas,Doctores,Cuauhtemoc,19.421599,-99.143408,Arroyo,Instalada
 Ecobici,561,Doctor  Jimenez,Doctor Lavista,Doctores,Cuauhtemoc,19.423673,-99.147957,Arroyo,Instalada
 Ecobici,562,Claudio Bernard,Jose Maria Vertiz,Doctores,Cuauhtemoc,19.42037,-99.146818,Arroyo,Instalada
-Ecobici,563,Doctor Velasco,Niï¿½os Heroes,Doctores,Cuauhtemoc,19.419444,-99.149776,Arroyo,Instalada
+Ecobici,563,Doctor Velasco,Niños Heroes,Doctores,Cuauhtemoc,19.419444,-99.149776,Arroyo,Instalada
 Ecobici,564,Doctor Carmona y Valle,Doctor Velasco,Doctores,Cuauhtemoc,19.419509,-99.153227,Arroyo,Instalada
 Ecobici,565,Doctor Martinez del Rio,Doctor Lucio,Doctores,Cuauhtemoc,19.417668,-99.152775,Arroyo,Instalada
 Ecobici,566,Doctor Jimenez,Doctor Garcia,Doctores,Cuauhtemoc,19.41638,-99.1495,Arroyo,Instalada
@@ -278,7 +278,7 @@ Ecobici,676,Ricardo Palmerin,Abundio Martinez,Guadalupe Inn,Alvaro Obregon,19.35
 Ecobici,677,Juan Pablo II,Av. Insurgentes,Guadalupe Inn,Alvaro Obregon,19.359053,-99.184317,Arroyo,Instalada
 Ecobici,681,Guty Cardenas,Ricardo Castro,Guadalupe Inn,Alvaro Obregon,19.355817,-99.189142,Arroyo,Instalada
 Ecobici,682,Manuel M Ponce,Fernando M Villalpando,Guadalupe Inn,Alvaro Obregon,19.35355,-99.189519,Arroyo,Instalada
-Ecobici,179,Nuevo Leon,Quintana Roo,Hipodromo,Cuauhtemoc,19.404452,-99.171438,Camellï¿½n,Instalada
+Ecobici,179,Nuevo Leon,Quintana Roo,Hipodromo,Cuauhtemoc,19.404452,-99.171438,Camellón,Instalada
 Ecobici,180,Quintana Roo,Villahermosa,Hipodromo,Cuauhtemoc,19.404554,-99.169953,Arroyo,Instalada
 Ecobici,181,Benjamin Franklin,Ometusco,Hipodromo,Cuauhtemoc,19.404733,-99.174461,Arroyo,Instalada
 Ecobici,059,Popocatepetl,Amsterdam,Hipodromo,Cuauhtemoc,19.415237,-99.16659,Arroyo,Instalada
@@ -295,7 +295,7 @@ Ecobici,078,Benjamin Hill,Tamaulipas,Hipodromo,Cuauhtemoc,19.407512,-99.177361,A
 Ecobici,079,Saltillo,Alfonso Reyes,Hipodromo,Cuauhtemoc,19.407479,-99.174403,Banqueta,Instalada
 Ecobici,080,Nuevo Leon,Aguascalientes,Hipodromo,Cuauhtemoc,19.407233,-99.172131,Banqueta,Instalada
 Ecobici,081,Aguascalientes,Av. Insurgentes,Hipodromo,Cuauhtemoc,19.407927,-99.168734,Arroyo,Instalada
-Ecobici,083,Alfonso Reyes,Nuevo Leï¿½n,Hipodromo,Cuauhtemoc,19.40655,-99.172275,Arroyo,Instalada
+Ecobici,083,Alfonso Reyes,Nuevo León,Hipodromo,Cuauhtemoc,19.40655,-99.172275,Arroyo,Instalada
 Ecobici,084,Chilpancingo,Tlaxcala,Hipodromo,Cuauhtemoc,19.406872,-99.169572,Arroyo,Instalada
 Ecobici,177,Benjamin Hill,Carlos Zetina,Hipodromo Condesa,Cuauhtemoc,19.408841,-99.181692,Arroyo,Instalada
 Ecobici,178,Tamaulipas,Francisco Murguia,Hipodromo Condesa,Cuauhtemoc,19.406833,-99.180457,Arroyo,Instalada
@@ -379,7 +379,7 @@ Ecobici,598,Palenque,Cumbres de Maltrata,Narvarte,Benito Juarez,19.3931,-99.1520
 Ecobici,599,La Morena,Zempoala,Narvarte,Benito Juarez,19.398143,-99.148333,Arroyo,Instalada
 Ecobici,600,Cumbres de Acultzingo,Av. Universidad,Narvarte,Benito Juarez,19.392463,-99.150544,Arroyo,Instalada
 Ecobici,612,Torres Adalid,Cumbres de Maltrata,Narvarte,Benito Juarez,19.388148,-99.148446,Arroyo,Instalada
-Ecobici,613,Luz Saviï¿½on,Doctor Jose Maria Vertiz,Narvarte,Benito Juarez,19.390019,-99.15111,Arroyo,Instalada
+Ecobici,613,Luz Saviñon,Doctor Jose Maria Vertiz,Narvarte,Benito Juarez,19.390019,-99.15111,Arroyo,Instalada
 Ecobici,615,Tajin,Av. Universidad,Narvarte,Benito Juarez,19.38748,-99.153876,Arroyo,Instalada
 Ecobici,617,Mitla,Eje 5 Sur,Narvarte,Benito Juarez,19.384589,-99.150517,Arroyo,Instalada
 Ecobici,276,Anaxagoras,Obrero Mundial,Narvarte Poniente,Benito Juarez,19.401986,-99.156366,Arroyo,Instalada
@@ -390,7 +390,7 @@ Ecobici,294,Nicolas San Juan,Eje 4 Sur Xola,Narvarte Poniente,Benito Juarez,19.3
 Ecobici,295,Anaxagoras,Eje 4 Sur Xola,Narvarte Poniente,Benito Juarez,19.396328,-99.156871,Arroyo,Instalada
 Ecobici,296,Diagonal San Antonio,Enrique Rebsamen,Narvarte Poniente,Benito Juarez,19.394283,-99.158756,Arroyo,Instalada
 Ecobici,297,Diagonal San Antonio,Enrique Rebsamen,Narvarte Poniente,Benito Juarez,19.394412,-99.158907,Arroyo,Instalada
-Ecobici,320,Enrique Rebsamen,Luz Saviï¿½on,Narvarte Poniente,Benito Juarez,19.391323,-99.15936,Arroyo,Instalada
+Ecobici,320,Enrique Rebsamen,Luz Saviñon,Narvarte Poniente,Benito Juarez,19.391323,-99.15936,Arroyo,Instalada
 Ecobici,321,Torres Adalid,Anaxagoras,Narvarte Poniente,Benito Juarez,19.389477,-99.157513,Arroyo,Instalada
 Ecobici,322,Heriberto Frias,Concepcion Beistegui,Narvarte Poniente,Benito Juarez,19.388528,-99.160616,Arroyo,Instalada
 Ecobici,339,Enrique Rebsamen,Avenida Eugenia,Narvarte Poniente,Benito Juarez,19.386212,-99.160583,Arroyo,Instalada
@@ -400,8 +400,8 @@ Ecobici,342,Pitagoras,Av. Division del Norte,Narvarte Poniente,Benito Juarez,19.
 Ecobici,614,Torres Adalid,Av. Cuauhtemoc,Narvarte Poniente,Benito Juarez,19.3893,-99.15633,Arroyo,Instalada
 Ecobici,501,Plan de Guadalupe /Ferrocarril de Cuernavaca,Eligio Ancona,Nextitla,Miguel Hidalgo,19.454257,-99.172593,Arroyo,Instalada
 Ecobici,503,Nextitla,Mar Egeo,Nextitla,Miguel Hidalgo,19.455531,-99.175222,Arroyo,Instalada
-Ecobici,610,Av. Victor Hugo,Av. Niï¿½os Heroes de Chapultepec,Niï¿½os Heroes de Chapultepec,Benito Juarez,19.387174,-99.143708,Arroyo,Instalada
-Ecobici,611,Miguel Negrete,Avenida Niï¿½os Heroes de Chapultepec,Niï¿½os Heroes de Chapultepec,Benito Juarez,19.387506,-99.146338,Arroyo,Instalada
+Ecobici,610,Av. Victor Hugo,Av. Niños Heroes de Chapultepec,Niños Heroes de Chapultepec,Benito Juarez,19.387174,-99.143708,Arroyo,Instalada
+Ecobici,611,Miguel Negrete,Avenida Niños Heroes de Chapultepec,Niños Heroes de Chapultepec,Benito Juarez,19.387506,-99.146338,Arroyo,Instalada
 Ecobici,354,Boston,Av. Insurgentes,Noche Buena,Benito Juarez,19.381714,-99.176664,Arroyo,Instalada
 Ecobici,367,Boston,Augusto Rodin,Noche Buena,Benito Juarez,19.379593,-99.181351,Arroyo,Instalada
 Ecobici,352,Tintoreto,Giorgione,Nonoalco,Benito Juarez,19.384146,-99.185491,Arroyo,Instalada
@@ -410,7 +410,7 @@ Ecobici,521,Yuca,Clavelinas,Nueva Santa Maria,Azcapotzalco,19.466423,-99.173061,
 Ecobici,527,Boldo,Alcanfores,Nueva Santa Maria,Azcapotzalco,19.464826,-99.163177,Arroyo,Instalada
 Ecobici,529,Avenida Plan de San Luis,Clavelinas,Nueva Santa Maria,Azcapotzalco,19.465552,-99.166851,Arroyo,Instalada
 Ecobici,530,Membrillo,Cda. de Nueces,Nueva Santa Maria,Azcapotzalco,19.464564,-99.169496,Arroyo,Instalada
-Ecobici,533,Av. Plan de San Luis,Eje 2 Norte Eulalia Guzmï¿½n,Nueva Santa Maria,Azcapotzalco,19.46047,-99.16727,Arroyo,Instalada
+Ecobici,533,Av. Plan de San Luis,Eje 2 Norte Eulalia Guzmán,Nueva Santa Maria,Azcapotzalco,19.46047,-99.16727,Arroyo,Instalada
 Ecobici,557,5 de Febrero,Fernando de Alva Ixtlilxochitl,Obrera,Cuauhtemoc,19.41981,-99.135941,Arroyo,Instalada
 Ecobici,559,Fernando de Alva Ixtlilxochitl,Diagonal 20 de Noviembre,Obrera,Cuauhtemoc,19.420029,-99.140999,Arroyo,Instalada
 Ecobici,569,Gutierrez Najera,Simon Bolivar,Obrera,Cuauhtemoc,19.415713,-99.141227,Arroyo,Instalada
@@ -428,7 +428,7 @@ Ecobici,519,Poniente 58,Avenida Cuitlahuac,Obrero Popular,Azcapotzalco,19.464891
 Ecobici,705,Europa,Av. Miguel Angel de Quevedo,Parque San Andres,Coyoacan,19.34406,-99.155983,Arroyo,Instalada
 Ecobici,707,Irlanda,Av. Division del Norte,Parque San Andres,Coyoacan,19.348076,-99.14906,Arroyo,Instalada
 Ecobici,708,Irlanda,Canada,Parque San Andres,Coyoacan,19.346489,-99.145828,Arroyo,Instalada
-Ecobici,709,Inglaterra,Antigua Taxqueï¿½a,Parque San Andres,Coyoacan,19.344271,-99.149973,Arroyo,Instalada
+Ecobici,709,Inglaterra,Antigua Taxqueña,Parque San Andres,Coyoacan,19.344271,-99.149973,Arroyo,Instalada
 Ecobici,594,Xochicalco,Obrero Mundial,Piedad Narvarte,Benito Juarez,19.402277,-99.153294,Arroyo,Instalada
 Ecobici,498,Avenida de los Maestros,Plan de Agua Prieta,Plutarco Elias Calles,Miguel Hidalgo,19.453197,-99.16645,Arroyo,Instalada
 Ecobici,500,Ferrocarril de Cuernavaca,Juan Sarabia,Plutarco Elias Calles,Miguel Hidalgo,19.456546,-99.169344,Arroyo,Instalada
@@ -470,8 +470,8 @@ Ecobici,232,Taine,Ruben Dario,Polanco,Miguel Hidalgo,19.42894,-99.185389,Arroyo,
 Ecobici,233,Julio Verne,Luis G. Urbina,Polanco,Miguel Hidalgo,19.429314,-99.196965,Arroyo,Instalada
 Ecobici,234,Tres Picos,Arquimedes,Polanco,Miguel Hidalgo,19.42783,-99.191539,Arroyo,Instalada
 Ecobici,239,Rincon del Bosque,Ruben Dario,Polanco,Miguel Hidalgo,19.430153,-99.181355,Arroyo,Instalada
-Ecobici,240,Ejercito Nacional,Ferrocarril de Cuernavaca,Polanco,Miguel Hidalgo,19.438551,-99.206298,Camellï¿½n,Instalada
-Ecobici,241,Ejercito Nacional,Juan Vazquez de la Mella,Polanco,Miguel Hidalgo,19.438616,-99.207577,Camellï¿½n,Instalada
+Ecobici,240,Ejercito Nacional,Ferrocarril de Cuernavaca,Polanco,Miguel Hidalgo,19.438551,-99.206298,Camellón,Instalada
+Ecobici,241,Ejercito Nacional,Juan Vazquez de la Mella,Polanco,Miguel Hidalgo,19.438616,-99.207577,Camellón,Instalada
 Ecobici,242,Av. Moliere,Blvd. Miguel de Cervantes Saavedra,Polanco,Miguel Hidalgo,19.440195,-99.200715,Arroyo,Instalada
 Ecobici,451,Campos Eliseos,Goldsmith,Polanco,Miguel Hidalgo,19.428847,-99.201299,Arroyo,Instalada
 Ecobici,235-236,Campos Eliseos,Av. Moliere,Polanco,Miguel Hidalgo,19.429332,-99.202181,Arroyo,Instalada
@@ -512,10 +512,10 @@ Ecobici,130,Merida,Durango,Roma Norte,Cuauhtemoc,19.421576,-99.158015,Arroyo,Ins
 Ecobici,131,Colima,Jalapa,Roma Norte,Cuauhtemoc,19.419579,-99.161314,Arroyo,Instalada
 Ecobici,132,Colima,Frontera,Roma Norte,Cuauhtemoc,19.420667,-99.15645,Arroyo,Instalada
 Ecobici,133,Colima,Morelia,Roma Norte,Cuauhtemoc,19.421138,-99.154725,Arroyo,Instalada
-Ecobici,134,Alvaro Obregon,Orizaba,Roma Norte,Cuauhtemoc,19.418304,-99.15956,Camellï¿½n,Instalada
-Ecobici,135,Alvaro Obregon,Morelia,Roma Norte,Cuauhtemoc,19.419225,-99.155099,Camellï¿½n,Instalada
-Ecobici,136,Alvaro Obregon,Tonala,Roma Norte,Cuauhtemoc,19.417715,-99.162729,Camellï¿½n,Instalada
-Ecobici,137,Alvaro Obregon,Merida,Roma Norte,Cuauhtemoc,19.418774,-99.157081,Camellï¿½n,Instalada
+Ecobici,134,Alvaro Obregon,Orizaba,Roma Norte,Cuauhtemoc,19.418304,-99.15956,Camellón,Instalada
+Ecobici,135,Alvaro Obregon,Morelia,Roma Norte,Cuauhtemoc,19.419225,-99.155099,Camellón,Instalada
+Ecobici,136,Alvaro Obregon,Tonala,Roma Norte,Cuauhtemoc,19.417715,-99.162729,Camellón,Instalada
+Ecobici,137,Alvaro Obregon,Merida,Roma Norte,Cuauhtemoc,19.418774,-99.157081,Camellón,Instalada
 Ecobici,138,Guanajuato,Frontera,Roma Norte,Cuauhtemoc,19.417702,-99.155313,Arroyo,Instalada
 Ecobici,139,Tonala,Guanajuato,Roma Norte,Cuauhtemoc,19.416128,-99.162097,Arroyo,Instalada
 Ecobici,140,Merida,Zacatecas,Roma Norte,Cuauhtemoc,19.416596,-99.156879,Arroyo,Instalada
@@ -565,7 +565,7 @@ Ecobici,669,Los Juarez,Sagredo,San Jose Insurgentes,Benito Juarez,19.37075451,-9
 Ecobici,670,Felix Parra,Flamencos,San Jose Insurgentes,Benito Juarez,19.3676,-99.18499167,Arroyo,Instalada
 Ecobici,671,Plateros,Jose Maria Velasco,San Jose Insurgentes,Benito Juarez,19.364577,-99.186288,Arroyo,Instalada
 Ecobici,672,Jose Maria Velasco,Damas,San Jose Insurgentes,Benito Juarez,19.36295,-99.183161,Arroyo,Instalada
-Ecobici,673,Miguel Noreï¿½a,Jose Maria Ibarraran,San Jose Insurgentes,Benito Juarez,19.363153,-99.186963,Arroyo,Instalada
+Ecobici,673,Miguel Noreña,Jose Maria Ibarraran,San Jose Insurgentes,Benito Juarez,19.363153,-99.186963,Arroyo,Instalada
 Ecobici,680,Diego Becerra,Av. Revolucion,San Jose Insurgentes,Benito Juarez,19.36672,-99.188409,Arroyo,Instalada
 Ecobici,649,Heroes del 47,J. Aguilar y Lopez,San Mateo,Coyoacan,19.35072,-99.146786,Arroyo,Instalada
 Ecobici,651,Heroes del 47,Av. Division del Norte,San Mateo,Coyoacan,19.351578,-99.150941,Arroyo,Instalada
@@ -637,7 +637,7 @@ Ecobici,553,Jaime Torres Bodet,Av. Ribera de San Cosme,Santa Maria la Ribera,Cua
 Ecobici,554,Heroes Ferrocarrileros,Mariano Azuela,Santa Maria la Ribera,Cuauhtemoc,19.44174727,-99.15563897,Arroyo,Instalada
 Ecobici,555,Av. Ribera de San Cosme,Av. Insurgentes Centro,Santa Maria la Ribera,Cuauhtemoc,19.44021597,-99.15616778,Banqueta,Instalada
 Ecobici,497,Manuel Carpio,Plan de Ayala,Santo Tomas,Miguel Hidalgo,19.452688,-99.170157,Arroyo,Instalada
-Ecobici,520,Salonica,Camarones,Sector Naval,Azcapotzalco,19.47072,-99.17835,Camellï¿½n,Instalada
+Ecobici,520,Salonica,Camarones,Sector Naval,Azcapotzalco,19.47072,-99.17835,Camellón,Instalada
 Ecobici,259,Tomas Alva Edison,Ponciano Arriaga,Tabacalera,Cuauhtemoc,19.437569,-99.15468,Arroyo,Instalada
 Ecobici,270,Av. de la Republica,Ponciano Arriaga,Tabacalera,Cuauhtemoc,19.436764,-99.153865,Banqueta,Instalada
 Ecobici,450,Ramos Arizpe,Av. Mexico Tenochtitlan,Tabacalera,Cuauhtemoc,19.438228,-99.152269,Arroyo,Instalada
@@ -655,12 +655,12 @@ Ecobici,392,Patricio Sanz,Felix Cuevas,Tlacoquemecatl del Valle,Benito Juarez,19
 Ecobici,393,Adolfo Prieto,Felix Cuevas,Tlacoquemecatl del Valle,Benito Juarez,19.373307,-99.172471,Arroyo,Instalada
 Ecobici,528,Tlatilco,Av. Jardin,Tlatilco,Azcapotzalco,19.464966,-99.160413,Arroyo,Instalada
 Ecobici,534,Tlatilco,Jazmin,Tlatilco,Azcapotzalco,19.45883,-99.164513,Arroyo,Instalada
-Ecobici,535,Av. Jardin,Orquï¿½dea,Tlatilco,Azcapotzalco,19.46173,-99.16225,Arroyo,Instalada
+Ecobici,535,Av. Jardin,Orquídea,Tlatilco,Azcapotzalco,19.46173,-99.16225,Arroyo,Instalada
 Ecobici,486,Izcoatl,Circuito Interior Melchor Ocampo,Tlaxpana,Miguel Hidalgo,19.437334,-99.169573,Arroyo,Instalada
 Ecobici,487,Atzayacatl,Quetzalcoatl,Tlaxpana,Miguel Hidalgo,19.439741,-99.168901,Arroyo,Instalada
 Ecobici,494,Tlaloc,Calzada Mexico Tacuba,Tlaxpana,Miguel Hidalgo,19.444053,-99.167429,Arroyo,Instalada
 Ecobici,496,Maestro Rural,Jose Parres,Un Hogar para Nosotros,Miguel Hidalgo,19.449039,-99.170246,Arroyo,Instalada
-Ecobici,522,Prolongacion Nueces,Av. Cuitlahuac,Unidad Habitacional Cuitlï¿½huac,Azcapotzalco,19.4705145,-99.1700615,Banqueta,Instalada
+Ecobici,522,Prolongacion Nueces,Av. Cuitlahuac,Unidad Habitacional Cuitláhuac,Azcapotzalco,19.4705145,-99.1700615,Banqueta,Instalada
 Ecobici,469,Bahia De La Concepcion,Bahia de Todos Los Santos,Veronica Anzures,Miguel Hidalgo,19.434183,-99.173089,Arroyo,Instalada
 Ecobici,470,Bahia  de las Palmas,Bahia de Todos Los Santos,Veronica Anzures,Miguel Hidalgo,19.435039,-99.173879,Arroyo,Instalada
 Ecobici,471,Bahia de Chachalacas,Bahia de Santa Barbara,Veronica Anzures,Miguel Hidalgo,19.436287,-99.174888,Arroyo,Instalada
@@ -676,3 +676,315 @@ Ecobici,698,Cda. Alberto Zamora,Av. Miguel Angel de Quevedo,Villa Coyoacan,Coyoa
 Ecobici,699,San Gregorio,Felipe Carrillo Puerto,Villa Coyoacan,Coyoacan,19.346895,-99.163868,Arroyo,Instalada
 Ecobici,441,Puente Xoco,Real de Mayorazgo,Xoco,Benito Juarez,19.361213,-99.16752,Arroyo,Instalada
 Ecobici,442,Real de Mayorazgo,Avenida Mexico-Coyoacan,Xoco,Benito Juarez,19.359863,-99.165065,Arroyo,Instalada
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
