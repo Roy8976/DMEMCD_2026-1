@@ -11,13 +11,13 @@
 
 ## Objetivo
 
-Nuestra pregunta principal es: **¿qué patrones podemos detectar en el uso de ECOBICI como medio de transporte?** En particular, nos interesa conocer los horarios de mayor demanda, las estaciones con mayor actividad y los trayectos más frecuentes entre zonas de la ciudad.
+**Pregunta principal: ¿qué patrones podemos detectar en el uso de ECOBICI como medio de transporte?**
 
-A partir de esta primera pregunta, que nos ayuda a conocer el panorama general de nuestro conjunto de datos, profundizamos en tres aspectos:
+Esta pregunta nos da el panorama general del conjunto de datos. Esto delimita y abre las siguientes preguntas:
 
-* ¿Los patrones de uso cambian de acuerdo con el género registrado de las personas usuarias?
-* ¿Podemos identificar comportamientos distintos por grupos de edad?
-* ¿Qué relación existe entre la infraestructura de estaciones de ECOBICI y la demanda del servicio?
+* **¿Cuándo se usa?** Los horarios y días de mayor uso, y las diferencias entre días laborables, fines de semana y días de descanso obligatorio.
+* **¿Cuánto duran los viajes?** La distribución de la duración y cómo cambia según el tipo de día, el género y el grupo de edad.
+* **¿Dónde se usa?** Las estaciones con más viajes, los flujos entre alcaldías y la relación entre el número de estaciones de cada alcaldía y el número de viajes que se realizan en ella.
 
 
 ## Datos
@@ -76,9 +76,6 @@ ecobici-eda/
    pip install -r requirements.txt
    ```
 4. Abrir y ejecutar el notebook completo (*Kernel → Restart & Run All*):
-   ```bash
-   jupyter lab notebooks/01_eda_ecobici.ipynb
-   ```
 
 Las figuras y tablas se guardan en `results/` 
 
@@ -91,13 +88,4 @@ Las figuras y tablas se guardan en `results/`
 4. Análisis por pregunta de investigación
 5. Conclusiones y limitaciones
 6. Reproducibilidad
-
-## Resultados principales
-
-<RESUMIR EN 2-3 VIÑETAS LOS HALLAZGOS Y ENLAZAR UNA FIGURA DE `results/figures/`>
-
-## Limitaciones
-
-<EJ.: periodo acotado, registros sin género, no se infiere causalidad>
-
 
