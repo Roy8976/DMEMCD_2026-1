@@ -54,7 +54,8 @@ ecobici-eda/
 │   ├── raw/               # datos originales 
 ├── notebooks/
 │   └── 01_eda_ecobici.ipynb
-├── Resultados/
+│── Resultados/
+```
 
 ## Cómo reproducir el análisis
 
