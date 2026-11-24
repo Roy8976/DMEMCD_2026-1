@@ -54,6 +54,7 @@ ecobici-eda/
 │   ├── raw/               # datos originales 
 ├── notebooks/
 │   └── 01_eda_ecobici.ipynb
+├── Resultados/
 
 ## Cómo reproducir el análisis
 
@@ -83,12 +84,13 @@ Las figuras y tablas se guardan en `results/`
 
 ## Contenido del análisis
 
-0. Configuración de los datos
+0. Entorno de ejecución y ubicación de los datos
 1. Comprensión de los datos
 2. Exploración y estadística descriptiva
 3. Calidad, limpieza y transformación
-4. Visualizaciones con interpretación
+4. Análisis por pregunta de investigación
 5. Conclusiones y limitaciones
+6. Reproducibilidad
 
 ## Resultados principales
 
